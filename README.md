@@ -5,9 +5,10 @@
 ![screenshot2](assets/images/Screenshot2.png)
 
 
-## Description
+### DESCRIPTION 
 
-* Refactor code to meet Horiseon to mock up. Horiseon
+* Horiseon is a marketing firm that specializes online brand managment, lead generation, and search engine optimization.
+
 
 ### GOALS
 
@@ -18,3 +19,7 @@
 * Heading attribute fall in sequential order
 * Title element is consice and descriptive
 
+### LINKS
+
+* https://kahler197.github.io/Horiseon-Landing-Page/
+* https://github.com/kahler197/Horiseon-Landing-Page.git
