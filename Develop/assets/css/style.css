@@ -80,7 +80,7 @@ p {
 }
 
 
-.blue-box {
+.content-box {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -89,11 +89,11 @@ p {
     color: #ffffff;
 }
 
-.blue-box img {
+.content-box img {
     max-height: 200px;
 }
 
-.blue-box h2 {
+.content-box h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
