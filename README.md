@@ -1,6 +1,10 @@
 # HORISEON
 
-## GOALS
+## Description
+
+* Refactor code to meet Horiseon to mock up. Horiseon
+
+### GOALS
 
 * Webpage meets accessibility standards
 * HTML has semantic elements
