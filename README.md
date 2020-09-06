@@ -1,5 +1,8 @@
 # HORISEON
 
+![Screenshot1] (Horiseon-Landing-Page\assets\images\Screenshot1.jpg)
+
+
 ## Description
 
 * Refactor code to meet Horiseon to mock up. Horiseon
