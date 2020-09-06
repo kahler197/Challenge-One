@@ -1,5 +1,4 @@
-# HERISOS
-
+# HORISEON
 
 ## GOALS
 
