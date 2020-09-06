@@ -1,6 +1,6 @@
 # HORISEON
 
-Horiseon-Landing-Page\assets\images\Screenshot1.jpg
+![screenshot1](Horiseon-Landing-Page\assets\images\screenshot1.png)
 
 
 ## Description
